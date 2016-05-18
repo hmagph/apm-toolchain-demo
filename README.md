@@ -6,7 +6,8 @@ Get started with this sample, which is an online store that consists of three mi
 ###To get started, click this button.
 [![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://new-console.ng.bluemix.net/develop/setup/deploy/?repository=https%3A//github.com/hmagph/apm-toolchain-demo)  YP
 
-[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://daily-console.stage1.ng.bluemix.net/develop/setup/deploy/?repository=https%3A//github.com/hmagph/apm-toolchain-demo)  YS1
+[![Deploy To Bluemix](https://bluemix.net/deploy/button.png)](https://daily-console.stage1.ng.bluemix.net/develop/setup/deploy/?repository=https%3A//github.com/hmagph/apm-toolchain-demo) YS1
+
 ---
 ###Learn more
 
