@@ -124,7 +124,11 @@ alerting:
 #Web IDE
 webide:
   service_id: orion
-  
+
+#Performance Hub
+monitoring:
+  service_id: apm
+
 #Deployment
 deploy:
   schema: deploy.json
